@@ -1,0 +1,2 @@
+# This project is intentionally built without external Python dependencies.
+# The standard library is sufficient to run the skip-trace scraper demo.
