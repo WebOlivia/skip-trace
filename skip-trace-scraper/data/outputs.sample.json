@@ -1,0 +1,47 @@
+[
+    {
+        "Search Option": "Name Search",
+        "Input Given": "James E Whitsitt",
+        "First Name": "James",
+        "Last Name": "Whitsitt",
+        "Age": "76",
+        "Born": "February 1949",
+        "Lives in": "1727 Summerlin Pl Jeffersonville IN 47130",
+        "Street Address": "1727 Summerlin Pl",
+        "Address Locality": "Jeffersonville",
+        "Address Region": "IN",
+        "Postal Code": "47130",
+        "County Name": "Clark County",
+        "Email-1": "goldiewhitsitt@hotmail.com",
+        "Phone-1": "(214) 534-2474",
+        "Phone-1 Type": "Wireless",
+        "Phone-1 Provider": "New Cingular Wireless PCS LLC - IL",
+        "Previous Addresses": [
+            {
+                "streetAddress": "928 Meadowcove Cir",
+                "addressLocality": "Garland",
+                "addressRegion": "TX",
+                "postalCode": "75043",
+                "county": "Dallas County",
+                "timespan": "Recorded July 1989"
+            }
+        ],
+        "Relatives": [
+            {
+                "Name": "Janice Whitsitt",
+                "Age": "79"
+            },
+            {
+                "Name": "Goldie Whitsitt",
+                "Age": "75"
+            }
+        ],
+        "Associates": [
+            {
+                "Name": "Lola Sonnenberg",
+                "Age": "104"
+            }
+        ],
+        "Person Link": "https://www.fastpeoplesearch.com/james-whitsitt_id_G-5782184243798810449"
+    }
+]
